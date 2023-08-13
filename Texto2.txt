@@ -1,3 +1,8 @@
 Comandos usados: 
 git status
-git logg
+git log
+git branch
+git branch ramaPrueba
+git checkout ramaPrueba
+git branch -D pruebaa(borrar rama)
+
